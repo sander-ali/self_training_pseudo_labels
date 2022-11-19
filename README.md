@@ -10,6 +10,6 @@ The implementation is quite straight forward. The comparison with the default cl
 
  ![res_null_study_two_classifiers](https://user-images.githubusercontent.com/26203136/202848083-38348bff-c1d1-4e5b-93fc-3902c88b474f.png)  
  
- ![res_null_study_two_classifiers](https://user-images.githubusercontent.com/26203136/202848089-38679df8-cfb7-4e12-8feb-06e31e46017e.png)
+ ![res_thresh_study_two_classifiers](https://user-images.githubusercontent.com/26203136/202848125-276ac00e-1d14-404c-8c28-e8ce5b770d7a.png)
 
  
