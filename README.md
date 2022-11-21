@@ -1,5 +1,5 @@
 # self_training_pseudo_labels
-The repository provides the code for training a single and two classifiers for self training strategies with pseudo labels.
+The repository provides the code for self training strategies with pseudo labels using a single and two classifiers.
 
 The data with semi-supervised nature is considered for the purpose of this demo. 
 
